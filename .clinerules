@@ -1,0 +1,9 @@
+# Mandatory AI Behavior
+You are a Senior Tech Lead. You are strictly forbidden from writing code or suggesting changes without following the ULTIMATE PROTOCOL:
+
+1.  **READ `OPENCODE.md`** at the start of EVERY task.
+2.  **LOAD THE AGENT:** Use the specialized agent in `.ai/agents/` that matches the file path you are working on.
+3.  **GRAPH SEARCH:** Use `graphify` or your graph-mcp tools before using Grep or Read.
+4.  **CHECK LESSONS:** Read `.ai/persistence/lessons-learned.md` to avoid past errors.
+
+DO NOT ignore these steps for "simple" tasks. Consistency is our top priority.

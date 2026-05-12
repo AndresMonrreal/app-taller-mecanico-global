@@ -1,0 +1,486 @@
+{
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\eslint.config.js": {
+    "mtime": 1778217069.294858,
+    "hash": "20097f0c1a669549b3a8d3a194c3c25d"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\vite.config.ts": {
+    "mtime": 1778217069.332505,
+    "hash": "19bc3e249bb70df99d581c900f1ab841"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\router.tsx": {
+    "mtime": 1778217069.321337,
+    "hash": "1399708ae830799467737d473ea53a30"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routeTree.gen.ts": {
+    "mtime": 1778275352.1333754,
+    "hash": "268f2d8a88699f6d0952ea6338876a77"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\server.ts": {
+    "mtime": 1778217069.3304832,
+    "hash": "66ee5567f7cf04dfe7e00f52f3b50564"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\start.ts": {
+    "mtime": 1778217069.3304832,
+    "hash": "9194c218691e3dd0b8856096bb81c3b4"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\api\\axios.ts": {
+    "mtime": 1778294567.7619686,
+    "hash": "cef7e4a3afd86b008be3af3e19081167"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\api\\clientes.ts": {
+    "mtime": 1778302225.8942354,
+    "hash": "a3ca77fe442b97a648043cca89291c06"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\api\\ia.ts": {
+    "mtime": 1778294654.1404462,
+    "hash": "4ed5917f39e1e44915c45c785fd797ae"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\api\\ordenes.ts": {
+    "mtime": 1778300131.2769115,
+    "hash": "2bf366de9624d989caf5a15986b11a89"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\api\\servicios.ts": {
+    "mtime": 1778300141.6968615,
+    "hash": "4cf712f0d0ee2e7d9df3e8526a5177d4"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\api\\vehiculos.ts": {
+    "mtime": 1778389225.8026216,
+    "hash": "aaf0f78d6ae21b617865d6f6aa1a5d22"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\DataTable.tsx": {
+    "mtime": 1778217069.2968926,
+    "hash": "e90b93fac9da7fb1e6a60f3df81bb972"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\Layout.tsx": {
+    "mtime": 1778217069.2968926,
+    "hash": "3cf74e7a79eaa21781f98b161c95065e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\Modal.tsx": {
+    "mtime": 1778217069.2968926,
+    "hash": "358f2a7a9f7cbe28421f34e0436603be"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\Sidebar.tsx": {
+    "mtime": 1778217069.2968926,
+    "hash": "978fada83970ac46d53af4393632f3a5"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\StatusBadge.tsx": {
+    "mtime": 1778470956.0348806,
+    "hash": "a1187fe07ae0e53817c28d4a4682139a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\Topbar.tsx": {
+    "mtime": 1778217069.298425,
+    "hash": "09883b92c148ea62b713d6a8c7e7fa48"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\accordion.tsx": {
+    "mtime": 1778217069.2994144,
+    "hash": "ce37963180fea4c5b9615b930afad90a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\alert-dialog.tsx": {
+    "mtime": 1778217069.3005688,
+    "hash": "6ce59b995dca29004ff35c52113478db"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\alert.tsx": {
+    "mtime": 1778217069.3005688,
+    "hash": "5a6d7c9719435e87ba5605fb5e7b0dc9"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\aspect-ratio.tsx": {
+    "mtime": 1778217069.3005688,
+    "hash": "14c12661aad8c80328c86a18b506c088"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\avatar.tsx": {
+    "mtime": 1778217069.3005688,
+    "hash": "1c3bd25e3806bbc82f9513b789b14a30"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1778217069.3005688,
+    "hash": "f712eba47d4263bea5f224eacc090cb0"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\breadcrumb.tsx": {
+    "mtime": 1778217069.3025856,
+    "hash": "53f1ec4c38907530050142e3afa85cc7"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\button.tsx": {
+    "mtime": 1778217069.3025856,
+    "hash": "95aab63d268813e24494b1d958de5858"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\calendar.tsx": {
+    "mtime": 1778217069.3025856,
+    "hash": "96e6b176a517edb8b0facbb922a8c78c"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\card.tsx": {
+    "mtime": 1778217069.3025856,
+    "hash": "053803f00d677727a20ac1af41ee599c"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\carousel.tsx": {
+    "mtime": 1778217069.3025856,
+    "hash": "36dd085e09dbc3fe793c1708a6821204"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\chart.tsx": {
+    "mtime": 1778217069.3025856,
+    "hash": "e5bff896623339713c67d40cd8b8a74a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\checkbox.tsx": {
+    "mtime": 1778217069.3046079,
+    "hash": "bc80ca5f0cad47c8a942a5d3c95895d8"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\collapsible.tsx": {
+    "mtime": 1778217069.3046079,
+    "hash": "eda123bd06c97202f8cf1483e62d1580"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\command.tsx": {
+    "mtime": 1778217069.3046079,
+    "hash": "9eba05d7f5d3fcfd642d9affb10b75c7"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\context-menu.tsx": {
+    "mtime": 1778217069.3056288,
+    "hash": "69270233091977e4dc575681b1ba3e87"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\dialog.tsx": {
+    "mtime": 1778217069.3056288,
+    "hash": "c603531f47c6857b5802cf1d9e167e0b"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\drawer.tsx": {
+    "mtime": 1778217069.3068895,
+    "hash": "ec99714627829d4a2ce0b03f3e2b3335"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1778217069.307403,
+    "hash": "1ae2005dbe29a013829fea9a6f1c67a6"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\form.tsx": {
+    "mtime": 1778217069.307403,
+    "hash": "5a003832fca7d213e5b805ec214d819c"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\hover-card.tsx": {
+    "mtime": 1778217069.307403,
+    "hash": "82b2422c27dad853935c901f46966914"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\input-otp.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "d2323e8455e70b784db91ae646529481"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\input.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "bc58ae801e789ef86349bf93809c3534"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\label.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "919969cdd3255dc8aaed6ea15dc75166"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\menubar.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "ac230528a1a992f476ed8f5706a10763"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\navigation-menu.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "aaca5c27cd551ff9744fc89bd3044b41"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\pagination.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "0e8f9422cf3b259d1cfa8ff36bf8363c"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\popover.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "4db76837576da0621b5810d9bea6767f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\progress.tsx": {
+    "mtime": 1778217069.308417,
+    "hash": "77b2feba9a66fc89497a042b982bf7a1"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\radio-group.tsx": {
+    "mtime": 1778217069.3124874,
+    "hash": "0a7af4a8f2e0243992af81c8e8c58860"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\resizable.tsx": {
+    "mtime": 1778217069.3129983,
+    "hash": "1f93a1a9c4b1e770e17a34dcf67e939b"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\scroll-area.tsx": {
+    "mtime": 1778217069.3137097,
+    "hash": "004b51b8d40b7518596df3be92da6a17"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\select.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "077d570384d4ae231dd4bf4b25909fd5"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\separator.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "81c2922b4be835b7455accbff8ec0ecd"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\sheet.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "491b02a12606645844c308fe85c2734b"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\sidebar.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "b3cbfec1edf2cdd652b7bd70e4a6b2c8"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\skeleton.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "07675852ac2c3e4380129369a31cb44d"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\slider.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "f51437b9ee04349e8af16e6366c28fee"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\sonner.tsx": {
+    "mtime": 1778217069.314618,
+    "hash": "bdd1b9b20e6cd7b6977d371849d4c1e9"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\switch.tsx": {
+    "mtime": 1778217069.318364,
+    "hash": "e36f4816956e06b38f81a563297acb8f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\table.tsx": {
+    "mtime": 1778217069.318364,
+    "hash": "51562ced5e90e7352ed2694c903bd0d3"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\tabs.tsx": {
+    "mtime": 1778217069.318364,
+    "hash": "fa10a19c8fe9d457725fec9da0a12bed"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\textarea.tsx": {
+    "mtime": 1778217069.318364,
+    "hash": "1b230007443ef12f365fbd94d443ea5c"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\toggle-group.tsx": {
+    "mtime": 1778217069.321337,
+    "hash": "e1a2ed5eafef66716f034692f9ad46f4"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\toggle.tsx": {
+    "mtime": 1778217069.321337,
+    "hash": "465e435f8ca359dce972ee90e7b898cf"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\components\\ui\\tooltip.tsx": {
+    "mtime": 1778217069.321337,
+    "hash": "6dd894a539d5f97a0615c049be79a355"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\hooks\\use-mobile.tsx": {
+    "mtime": 1778217069.321337,
+    "hash": "1bb3ebac7752b497a78d34e341975bbd"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\lib\\error-capture.ts": {
+    "mtime": 1778217069.321337,
+    "hash": "1d158c2d639c781546da5f816c39f48d"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\lib\\error-page.ts": {
+    "mtime": 1778217069.321337,
+    "hash": "cc10be665a4bf6be668d0c29c207b92d"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\lib\\mock-data.ts": {
+    "mtime": 1778217069.321337,
+    "hash": "0452000d880c14c4e12aa415b75f2313"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\lib\\utils.ts": {
+    "mtime": 1778217069.321337,
+    "hash": "e3f848f1b39f863e6164cf58b5a8e752"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\clientes.tsx": {
+    "mtime": 1778389349.8589802,
+    "hash": "17bb55778e488b22c20feffdb6308824"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\configuracion.tsx": {
+    "mtime": 1778217069.326447,
+    "hash": "bdf450e9eb94657b62e1e6d61df2d56f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\index.tsx": {
+    "mtime": 1778470800.0191276,
+    "hash": "a328d46e6428db0309f0990875280803"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\ordenes.tsx": {
+    "mtime": 1778471707.497974,
+    "hash": "fe71dad303e622796d1e150b963daaab"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\reportes.tsx": {
+    "mtime": 1778472930.0744796,
+    "hash": "919f13a577f01719211c8c62c17845d6"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\servicios.tsx": {
+    "mtime": 1778436825.3331716,
+    "hash": "72bd47778209f8f9806a1f0a0964e5e2"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\vehiculos.tsx": {
+    "mtime": 1778469681.736553,
+    "hash": "98090724535e76f97f83a31dc50b2e3f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\routes\\__root.tsx": {
+    "mtime": 1778217069.321337,
+    "hash": "b84752652eef6c9e457dab44e02f5b6e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\src\\types\\index.ts": {
+    "mtime": 1778387564.1107326,
+    "hash": "11be02adc60d1e9d25f21c3427bd0875"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\test_oracle.py": {
+    "mtime": 1778291556.8021405,
+    "hash": "90f08635b023142d02462ac52689a74a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\alembic\\env.py": {
+    "mtime": 1778291868.8770618,
+    "hash": "bc3c7333a3c6b1730fbb504959e67f0b"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\alembic\\versions\\0a18a24c8531_tablas_iniciales.py": {
+    "mtime": 1778291926.2657702,
+    "hash": "8e60dcb3db89e9a249f5314b7aec9377"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\dependencies.py": {
+    "mtime": 1778472166.8531752,
+    "hash": "262adcc0a3ad961cb4ee462f37cb8d6a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\main.py": {
+    "mtime": 1778433200.249123,
+    "hash": "1c7a606789525546d496933fd83239ca"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\auth\\jwt.py": {
+    "mtime": 1778288482.308097,
+    "hash": "9d20e8b88d4e40bbec06e257e69aaaab"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\auth\\permissions.py": {
+    "mtime": 1778469761.8135345,
+    "hash": "6ab8bd9ec82bdf694af015e3ca94325a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\core\\config.py": {
+    "mtime": 1778470135.6447208,
+    "hash": "0c7fd56c4a0d6549bbc81a1e5bbd8449"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\core\\db.py": {
+    "mtime": 1778292871.0959294,
+    "hash": "5f4aa6ef3941c131b0d8b6554c4dd759"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\core\\errors.py": {
+    "mtime": 1778186804.866644,
+    "hash": "0e9f22fe4e51c1ac3cc9072ece8c476c"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\crud\\base.py": {
+    "mtime": 1778389577.099417,
+    "hash": "e80d69385fd91cf1498bf5a5f5594900"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\crud\\cliente.py": {
+    "mtime": 1778251402.7846386,
+    "hash": "9aa2edd69658d8eec2445855251165af"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\crud\\orden.py": {
+    "mtime": 1778435056.8210707,
+    "hash": "29359d1641e443e08a1db83440775ae3"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\crud\\servicio.py": {
+    "mtime": 1778294322.7644565,
+    "hash": "53561c808e81c3fca85bbf078181963f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\crud\\vehiculo.py": {
+    "mtime": 1778251583.271113,
+    "hash": "c5dcaab0e240a63549b7d0e88cd48ef3"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\middleware\\logging_middleware.py": {
+    "mtime": 1778187327.8983295,
+    "hash": "ebbdfc1ae7bc507ad08c0b7a144b9198"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\cliente.py": {
+    "mtime": 1778390018.0096245,
+    "hash": "f90d5f37483568cbf62efea06a8b261e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\orden.py": {
+    "mtime": 1778433743.3218367,
+    "hash": "6d61336451e243280160b4d3f94d918e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\orden_servicio.py": {
+    "mtime": 1778434383.5245216,
+    "hash": "7ca75a8a1851b7b93caa623a6088dd0e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\servicio.py": {
+    "mtime": 1778294404.6123543,
+    "hash": "c88ea590035c20e280f1068942fb6760"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\sesion.py": {
+    "mtime": 1778188087.2049377,
+    "hash": "26a632a1238a1681f930b83a4c31265f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\users.py": {
+    "mtime": 1778289851.1323001,
+    "hash": "704e0c1de01f69b4248d38c1fd5abb0d"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\vehiculo.py": {
+    "mtime": 1778431064.6291425,
+    "hash": "91fa265489aeb0377a5c3a653eebe723"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\models\\__init__.py": {
+    "mtime": 1778289565.5410266,
+    "hash": "dfd6b75086bf091c5b83b52b24ce56b4"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\routers\\auth.py": {
+    "mtime": 1778288655.8135636,
+    "hash": "54b4168addcc85e0b0a6adc3af1e6c53"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\routers\\clientes.py": {
+    "mtime": 1778472609.501135,
+    "hash": "6ed8dcdf7ab9036d79b682af70901b4d"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\routers\\ia.py": {
+    "mtime": 1778471850.5082703,
+    "hash": "6c90ea2562da2639f053b33ee71708ce"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\routers\\ordenes.py": {
+    "mtime": 1778472631.280295,
+    "hash": "7bbea4978ed8fd232022021725103dc9"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\routers\\servicios.py": {
+    "mtime": 1778292519.369385,
+    "hash": "bd26c0477f7da3128d0c7c4796db664a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\routers\\vehiculos.py": {
+    "mtime": 1778293969.3117795,
+    "hash": "0ba087b08c936a72537a06ea9d063d67"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\schemas\\cliente.py": {
+    "mtime": 1778216214.8820262,
+    "hash": "795e9f044f4ff41d92292748056c913f"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\schemas\\orden.py": {
+    "mtime": 1778436045.2642038,
+    "hash": "2a6c265df233169d417568af2738c564"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\schemas\\pagination.py": {
+    "mtime": 1778287384.4054525,
+    "hash": "5f6701ca9c5a18078f04adb6ed64dd47"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\schemas\\servicio.py": {
+    "mtime": 1778252214.9827895,
+    "hash": "09bf901586e56d8a0ce8c6b8047cff77"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\schemas\\users.py": {
+    "mtime": 1778288562.2013166,
+    "hash": "9160b00494a0a926eeef6dbe8a0d94d9"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\schemas\\vehiculo.py": {
+    "mtime": 1778216294.1008182,
+    "hash": "e10e54483c8fb91aed910c92d4d95468"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\app\\services\\claude_service.py": {
+    "mtime": 1778171827.6630645,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\seeds\\seed.py": {
+    "mtime": 1778171827.6777482,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\AGENTS.md": {
+    "mtime": 1778558998.87501,
+    "hash": "747e73a5e1af4b72c0d65c9169c23199"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\OPENCODE.md": {
+    "mtime": 1778557392.3172865,
+    "hash": "97e764195145bde5812a5be9e7d8e0b5"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\auto-hub-pro\\OPENCODE.md": {
+    "mtime": 1778558112.7142103,
+    "hash": "f24a0e5272e080e368a0e7017bc42f3a"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\OPENCODE.md": {
+    "mtime": 1778558104.1627772,
+    "hash": "378082e0dc0a9e78ed95609371a00661"
+  },
+  "C:\\Users\\lulum\\OneDrive\\Escritorio\\Ulloa\\taller-mecanico-api\\requirements.txt": {
+    "mtime": 1778171827.6861222,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  }
+}
