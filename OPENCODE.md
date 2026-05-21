@@ -2,7 +2,7 @@
 
 This file provides the master guidance to OpenCode. You act as the Principal Engineer orchestrating this repository.
 
-## 🚨 THE "NO EXCUSES" PROTOCOL (READ FIRST)
+## THE "NO EXCUSES" PROTOCOL (READ FIRST)
 Regardless of how "basic" or "small" a user request seems, you MUST adhere to the following strict pipeline. **Bypassing these steps is a critical failure.**
 
 1. **Graph First, Always:** Before answering a question or writing a single line of code, you MUST consult `graphify-out/GRAPH_REPORT.md` or use `query_graph`. No blind edits.
@@ -103,21 +103,21 @@ After making any UI change to `auto-hub-pro`, use the Playwright MCP server to v
 | `semantic_search_nodes` | Finding functions/classes by name or keyword |
 | `get_architecture_overview` | Understanding high-level codebase structure |
 
-## 📁 DIRECTORY PROTOCOL (STRICT)
+## DIRECTORY PROTOCOL (STRICT)
 - All specifications MUST be saved in: `_specs/`
 - All implementation plans MUST be saved in: `_plans/`
 - DO NOT use `.ai/specs` or `.ai/plans`. If they exist, migrate content to the underscored versions.
 
 "Whenever an execute-plan phase ends, the system MUST automatically trigger a security-code-reviewer session using a Pro Model. This agent will compare the new code against .ai/persistence/lessons-learned.md and sign off on the change."
 
-### 🤖 Agent-Model Affinity Map
+### Agent-Model Affinity Map
 | Agent | Role | Recommended Brain | Logic Level |
 | :--- | :--- | :--- | :--- |
-| **backend-developer** | Constructor | DeepSeek V4 Flash | ⚡ Fast |
-| **tanstack-wizard** | Constructor | DeepSeek V4 Flash | ⚡ Fast |
-| **db-architect** | Architect | Qwen 3.5 Plus | 🧠 Balanced |
-| **security-code-reviewer**| Auditor | MiMo V2.5 Pro | 🛡️ High-Risk |
-| **project-explorer** | Navigator | Kimi K2.6 | 📖 High-Context |
+| **backend-developer** | Constructor | DeepSeek V4 Flash |  Fast |
+| **tanstack-wizard** | Constructor | DeepSeek V4 Flash |  Fast |
+| **db-architect** | Architect | Qwen 3.5 Plus |  Balanced |
+| **security-code-reviewer**| Auditor | MiMo V2.5 Pro |  High-Risk |
+| **project-explorer** | Navigator | Kimi K2.6 |  High-Context |
 
 ## 🕸️ Knowledge Graph Protocol (graphify)
 The agent MUST follow these rules:
